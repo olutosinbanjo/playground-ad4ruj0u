@@ -1,10 +1,10 @@
-title: C++ Project
+title: DPC++ Project
 plan:
-- title: Welcome
+- title: Helle World! DPC++
   statement: markdowns/welcome.md
 projects:
   cpp:
-    root: /cpp-project
+    root: /exercises
     runner:
       name: techio/cmake-gcc-runner
       version: latest
